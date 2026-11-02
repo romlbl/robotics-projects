@@ -6,9 +6,9 @@ Ce dépôt regroupe l'ensemble de mes principaux projets personnels de robotique
 
 ## Sommaire
 
-- [Imprimante 3D faite maison](#1--construction-dune-imprimante-3d-fonctionnelle-2018-2019)
-- [Bras robotique imprimé en 3D](#2--bras-robotique-imprimé-en-3d-2019)
-- [Drone-Bricks](#3--projet-drone-bricks-2020)
+- [Imprimante 3D faite maison](#1-construction-dune-imprimante-3d-fonctionnelle-2018-2019)
+- [Bras robotique imprimé en 3D](#2-bras-robotique-imprimé-en-3d-2019)
+- [Drone-Bricks](#3-projet-drone-bricks-2020)
 
 ---
 
